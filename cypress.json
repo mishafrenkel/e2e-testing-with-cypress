@@ -1,0 +1,12 @@
+{
+  "screenshotsFolder": "cypress/snapshots/actual",
+  "trashAssetsBeforeRuns": true,
+  "video": false,
+  "eyesTimeout": 60000,
+  "env": {
+    "APPLITOOLS_API_KEY": "4oEYt3czcfTVXQlHd29pedW2L107iWIJIR290hHoa4f1I110",
+    "APPLITOOLS_SERVER_URL": "https://gapeyes.applitools.com",
+    "APPLITOOLS_VIEW_KEY": "gvaqC102zdjOVGO4H8knGglugMUOvWdYmqlAANx4BhAyY110"
+  },
+  "projectId": "9z1b9v"
+}
